@@ -4,7 +4,7 @@
 alt="O FARATA SÖYLE BENİM MANYAK OLDUĞUMU UNUTMASIN" width="250" height="250" border="10" /></a>
   
   <p align="center">
-    <em>tıss<em>
+    tıss
     <br />
     <br />
     <a href="https://github.com/mxte/DersZAMANLAYICISI">Ders Zamanlayıcısı</a> 
