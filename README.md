@@ -7,7 +7,5 @@ alt="O FARATA SÖYLE BENİM MANYAK OLDUĞUMU UNUTMASIN" width="250" height="250"
     tıss
     <br />
     <br />
-    <a href="https://github.com/mxte/DersZAMANLAYICISI">Ders Zamanlayıcısı</a> 
-    · Dersi kapatmak için bir batch dosyası, uzaktan eğitim için
   </p>
 </p>
