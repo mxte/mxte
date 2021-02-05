@@ -5,7 +5,5 @@ alt="O FARATA SÖYLE BENİM MANYAK OLDUĞUMU UNUTMASIN" width="250" height="250"
   
   <p align="center">
     tıss
-    <br />
-    <br />
   </p>
 </p>
